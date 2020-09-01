@@ -1,0 +1,21 @@
+[
+        {
+            "name": "Church Events",
+            "description": "Church Events Details.",
+            "Rating": "Tassia Central SDA Church",
+            "episode": 001,
+            "categorie":"INDY 2020 | Ambassadors | Youths",
+            "studio":"Dates",
+            "img": "https://www.churchmotiongraphics.com/wp-content/uploads/2018/01/WorshipBackground.jpg"
+        },
+        {
+            "name": "Church Events",
+            "description": "Church Events Details.",
+            "Rating": "Tassia Central SDA Church",
+            "episode": 001,
+            "categorie":"INDY 2020 | Ambassadors | Youths",
+            "studio":"Dates",
+            "img": "https://www.churchmotiongraphics.com/wp-content/uploads/2018/01/WorshipBackground.jpg"
+        }
+
+    ]
