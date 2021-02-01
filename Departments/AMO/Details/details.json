@@ -1,11 +1,9 @@
 [ 
     {
         "id": "1",
-        "firstname": "AMO",
+        "firstname": "",
         "lastname": "",
-        "jobprofile":"Verse 1\n" +
-                "  Almighty Father, hear our prayer, and\n" +
-                "  bless all souls that wait before Thee.\n" +
-                "  Amen.";
+        "jobprofile":"The Adventist Men Organization is a department within the church that is concerned with the nurturing of men for the service to God, family and the community \r\n \r\n\r\nAdventist Men Ministry concentrates on the male to better define and minister to the specific needs of the gender. By highlighting the roles of men, men’s ministry can touch on and improve the lives of men in ways that no other ministry can."
+
     }
 ]
