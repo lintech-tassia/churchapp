@@ -1,47 +1,38 @@
 [{
-	"name": "Children Camp Meeting 2020",
+	"name": "Adventist Youth Ministry (AYM)",
 	"url": {
 		"small": "https://lintech-tassia.github.io/churchapp/appimages/home/tassiahome2.jpg",
 		"medium": "https://lintech-tassia.github.io/churchapp/appimages/home/tassiahome2.jpg",
 		"large": "https://lintech-tassia.github.io/churchapp/appimages/home/tassiahome2.jpg"
 	},
-	"timestamp": "September 17, 2020"
+	"timestamp": "Feb 25, 2021"
 },
  {
 	"name": "Children Camp Meeting 2020",
 	"url": {
-		"small": "https://drive.google.com/file/d/1KvMf236OGVpFB2kSoyMUWG802tWluJp7/view",
-		"medium": "https://drive.google.com/file/d/1KvMf236OGVpFB2kSoyMUWG802tWluJp7/view",
-		"large": "https://drive.google.com/file/d/1KvMf236OGVpFB2kSoyMUWG802tWluJp7/view"
+		"small": "https://lintech-tassia.github.io/churchapp/appimages/home/tassiahome1.jpg",
+		"medium": "https://lintech-tassia.github.io/churchapp/appimages/home/tassiahome1.jpg",
+		"large": "https://lintech-tassia.github.io/churchapp/appimages/home/tassiahome1.jpg"
 	},
-	"timestamp": "September 17, 2020"
+	"timestamp": "Feb 25, 2021"
 },
         {
 	"name": "Children Camp Meeting 2020",
 	"url": {
-		"small": "https://drive.google.com/file/d/1V88yO4oWRfSsk1_noXzFDJZRlR4N0eHU/view",
-		"medium": "https://drive.google.com/file/d/1V88yO4oWRfSsk1_noXzFDJZRlR4N0eHU/view",
-		"large": "https://drive.google.com/file/d/1V88yO4oWRfSsk1_noXzFDJZRlR4N0eHU/view"
+		"small": "https://lintech-tassia.github.io/churchapp/appimages/home/tassiahome4.jpg",
+		"medium": "https://lintech-tassia.github.io/churchapp/appimages/home/tassiahome4.jpg",
+		"large": "https://lintech-tassia.github.io/churchapp/appimages/home/tassiahome4.jpg"
 	},
-	"timestamp": "September 17, 2020"
+	"timestamp": "Feb 25, 2021"
 },
         {
 	"name": "Children Camp Meeting 2020",
 	"url": {
-		"small": "https://drive.google.com/file/d/14zdTWuJXZK4U2pLD7hdqQw3ynAHnySVH/view",
-		"medium": "https://drive.google.com/file/d/14zdTWuJXZK4U2pLD7hdqQw3ynAHnySVH/view",
-		"large": "https://drive.google.com/file/d/14zdTWuJXZK4U2pLD7hdqQw3ynAHnySVH/view"
+		"small": "https://lintech-tassia.github.io/churchapp/appimages/home/tassiahome3.jpg",
+		"medium": "https://lintech-tassia.github.io/churchapp/appimages/home/tassiahome3.jpg",
+		"large": "https://lintech-tassia.github.io/churchapp/appimages/home/tassiahome3.jpg"
 	},
-	"timestamp": "September 17, 2020"
-},
-        {
-	"name": "Children Camp Meeting 2020",
-	"url": {
-		"small": "https://drive.google.com/file/d/11Uxs6EWaHZH0C7Kbvuai39pmkCaF2flH/view",
-		"medium": "https://drive.google.com/file/d/11Uxs6EWaHZH0C7Kbvuai39pmkCaF2flH/view",
-		"large": "https://drive.google.com/file/d/11Uxs6EWaHZH0C7Kbvuai39pmkCaF2flH/view"
-	},
-	"timestamp": "September 17, 2020"
-},
+	"timestamp": "Feb 25, 2021"
+}
  
 ]
