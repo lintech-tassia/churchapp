@@ -9,7 +9,7 @@
 		"id": "1",
 		"firstname": "Covid Alert!",
 		"lastname": "",
-		"jobprofile": "We would all be safe if we stick to the regulations given by the Church reggarding orship within the vicinity of the Church Grounds. Remember to wear your mask properly and keep your hands clean.\r\n\r\n All choir members and Visitors are required to adhere to the same.\r\n\r\n The Microphones ill be cleaned frequently by the Tech team to ensure that no contamiination hits the participants of the day.\r\n\r\n Keep the virus at bay!   "
+		"jobprofile": "We would all be safe if we stick to the regulations given by the Church regarding worship within the vicinity of the Church. Remember to wear your mask properly and keep your hands clean.\r\n\r\n All choir members and Visitors are required to adhere to the same regulations.\r\n\r\n The Microphones will be cleaned frequently by the Tech team.\r\n\r\n Keep the virus at bay!   "
 	},
       
 	{
@@ -38,6 +38,12 @@
 		"jobprofile": "(1.)9:00 ~ 9:30am: Arrival and Registration of choirs\r\n\r\n. (2.)9:30 ~ 10:00am: Welcoming and Morning Devotion\r\n\r\n.(3.)10:00 ~ 12:00pm: Songs Presentation\r\n\r\n. (5.)12:00 ~ 1:00pm: Sermonette by guest speaker\r\n\r\n.(6.)1:00 ~ 2:00pm:Lunch Break \r\n\r\n.(7.)2:00 ~ 3:00pm: Launching\r\n\r\n.(8.)3:00 ~ 6:00pm: Songs Presentation\r\n\r\n.(9.)6:00 ~  : Vote Of Thanks And Closing Prayer\r\n\r\n."
 
         },
+        {
+		"id": "1",
+		"firstname": "Message from the Technical Desk",
+		"lastname": "",
+                "jobprofile": "(1.)All are welcome for the Tassia Central SDA Church choir DVD launch\r\n\r\n (2.) The equipments that are used for the day are handled by professionals. Please follow their advice for proper use of all Technical equipment\r\n\r\n (3.)The equipments are all tested and working properly. Avoid testing the equipments!\r\n\r\n (4.)Stay safe and Stay at Jesus feet"
+	},
  
        {
                 "id": "1",
