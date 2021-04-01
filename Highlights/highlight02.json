@@ -1,8 +1,8 @@
 [        {
 		"id": "1",
-		"firstname": "Tassia Central SDA Church Choir",
+		"firstname": "Tassia Central SDA Church",
 		"lastname": "",
-		"jobprofile": "Tassia Central SDA church is launching their DVD today, Sunday 14th. All are welcome." 
+		"jobprofile": "We want to invite you to our Online Service." 
 		 
 	},
         {
@@ -16,26 +16,26 @@
 		"id": "1",
 		"firstname": "Speaker",
 		"lastname": "",
-		"jobprofile": "Pastor Ezekiel."
+		"jobprofile": "Pastor Joash Masese."
 	},
 	{
 		"id": "1",
 		"firstname": "Key Text",
 		"lastname": "",
-		"jobprofile": "Psalms 148:1-8 "
+		"jobprofile": "1 Sam 13:8 "
 	},
       
          {
 		"id": "1",
 		"firstname": "Theme Song",
 		"lastname": "",
-		"jobprofile": "SDAH 671"
+		"jobprofile": "SDAH 608"
 	},
         {
 		"id": "1",
-		"firstname": "Tassia Central SDA Church Choir DVD launch day program",																																																										
+		"firstname": "Theme",																																																										
 		"lastname": "",
-		"jobprofile": "(1.)9:00 ~ 9:30am: Arrival and Registration of choirs\r\n\r\n. (2.)9:30 ~ 10:00am: Welcoming and Morning Devotion\r\n\r\n.(3.)10:00 ~ 12:00pm: Songs Presentation\r\n\r\n. (5.)12:00 ~ 1:00pm: Sermonette by guest speaker\r\n\r\n.(6.)1:00 ~ 2:00pm:Lunch Break \r\n\r\n.(7.)2:00 ~ 3:00pm: Launching\r\n\r\n.(8.)3:00 ~ 6:00pm: Songs Presentation\r\n\r\n.(9.)6:00 ~  : Vote Of Thanks And Closing Prayer\r\n\r\n."
+		"jobprofile": "Tarry In Gilgal"
 
         },
         {
@@ -45,19 +45,10 @@
                 "jobprofile": "(1.)All are welcome for the Tassia Central SDA Church choir DVD launch\r\n\r\n (2.) The equipments that are used for the day are handled by professionals. Please follow their advice for proper use of all Technical equipment\r\n\r\n (3.)The equipments are all tested and working properly. Avoid testing the equipments!\r\n\r\n (4.)Stay safe and Stay at Jesus feet"
 	},
  
-       {
-                "id": "1",
-                "firstname": "Church Choirs Invited",
-                "lastname": "",
-                "jobprofile": "(1.)pillars of Joy\r\n\r\n (2.)Fountain Ministers \r\n\r\n (3.)Mradi Church Choir\r\n\r\n (4.)Garison Church Choir\r\n\r\n (5.)Tassia Main Church Choir\r\n\r\n (6.)Pilgrim Ministers\r\n\r\n(7.)Tassia Central Youth Choir\r\n\r\n(8.)Remnant Ministers\r\n\r\n(9.)Wasafiri Ministers\r\n\r\n"
-       },
-
-
-         
-	{
-		"id": "1",
+       {	
+	 "id": "1",
 		"firstname": "Announcements Today",
 		"lastname": "",
-		"jobprofile": "(1.) Tassia Central DVD launching today.\r\n\r\n(2.) This week 7th to 13th March we saw the STEWARDSHIP WEEK OF REVIVAL 2021. The event was broadcasted live on Youtube. Kindly like, Share and Subscribe for the latest Videos.\r\n\r\n (3.) Tassia Central SDA church choir is launching their DVD this Sunday. The Event will begin promptly at 9:00 am and run until 7:00 pm East African time. You are all Welcome \r\n\r\n (4.) Tassia Central SDA church choir will be launching their DVD album this sunday 14th March 2021. Do not miss! \r\n\r\n(5.) James Martins is planning to wed on 28th March at Ajigo SDA Church, Bondo.\r\n\r\n(6.) Development Promotion on 10th April. Group members to start meeting and pray for the same.\r\n\r\n(7.) Kindly join the Church welfare by giving Ksh 100 for registration and monthly contribution of Ksh 100.\r\n\r\n (8.) The East Nairobi Field will have a fundraiser on 11th April."
+		"jobprofile": "(1.) Welcome to Tassia Central SDA Church.\r\n\r\n(2.) Due to Covid-19 regulations, all members are asked to please stay at home and follow the service on our online platform, YouTube. Kindly like, Share and Subscribe for the latest Videos.\r\n\r\n (3.) Tassia Central SDA church choir launched their DVD on 14th March. The Event was broadcasted live and anyone can access it via the online platform, YouTube. \r\n\r\n (4.) James Martins did his wedding on 28th March at Ajigo SDA Church, Bondo.\r\n\r\n(6.) Development Promotion on 10th April. Group members to start meeting and pray for the same.\r\n\r\n(7.) Kindly join the Church welfare by giving Ksh 100 for registration and monthly contribution of Ksh 100.\r\n\r\n (8.) The East Nairobi Field will have a fundraiser on 11th April."
         }
 ]
